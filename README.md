@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mombaygheve97" alt="mombaygheve97" /></a> </p>
 
-- 🔭 I’m currently working on **An Artificial Intelligent bot in Discord**
+- 🔭 I’m currently working on **An Artificial Intelligent bot in Discord using Python**
 
 - 🌱 I’m currently learning **Machine Learning, Java, and Python**
 
