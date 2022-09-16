@@ -1,7 +1,7 @@
 <img src="gheve-github-banner.png" width="100%" align="center" />
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=ff2400&lines=Hi+👋;I'm+Gheve+Mombay;Java/python+developer.&center=true&size=30" /></br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=ff2400&lines=Hi+👋;I'm+Gheve+Mombay;Software+Engineer.&center=true&size=30" /></br>
   <img src="https://komarev.com/ghpvc/?username=mombaygheve97&label=Profile%20views&color=ff2400&style=flat" alt="mombaygheve97" />
   </a>
 </h1>
