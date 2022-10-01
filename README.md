@@ -7,13 +7,13 @@
 </h1>
 
 ```diff
-- 🔭 I’m currently working on **An Artificial Intelligent bot in Discord**
+# 🔭 I’m currently working on **An Artificial Intelligent bot in Discord**
 
-- 🌱 I’m currently learning **Machine Learning, Java, and Python**
+# 🌱 I’m currently learning **Machine Learning, Java, and Python**
 
-- 📫 How to reach me **gheve.mombay97@gmail.com**
+# 📫 How to reach me **gheve.mombay97@gmail.com**
 
-- ⚡ Fun fact **I have in interest in creating A.I.**
+# ⚡ Fun fact **I have in interest in creating A.I.**
 ```
 
 <p align="center">
