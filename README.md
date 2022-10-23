@@ -9,11 +9,11 @@
 ```diff
 # 🔭 I’m currently working on **An Artificial Intelligent bot in Discord**
 
-# 🌱 I’m currently learning **Machine Learning, Java, and Python**
+# 🌱 I’m currently learning **Data Analyst, Excel, Power BI, Tableau, Machine Learning, and Python**
 
 # 📫 How to reach me **gheve.mombay97@gmail.com**
 
-# ⚡ Fun fact **I have in interest in creating A.I.**
+# ⚡ Fun fact **I have in interest in creating A.I. and analyzing datas**
 ```
 
 <p align="center">
