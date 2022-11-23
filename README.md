@@ -1,7 +1,7 @@
 ![gheve-github-banner](https://user-images.githubusercontent.com/55573274/193395056-4d51d0f5-0d82-4b42-9abd-ca9595253ae0.png)
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hi+👋;I'm+Gheve+Mombay;Data+Analyst.&center=true&size=30" /></br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hi+👋;I'm+Gheve+Mombay;Developer+/+Data+Analyst.&center=true&size=30" /></br>
   <img src="https://komarev.com/ghpvc/?username=mombaygheve97&label=Profile%20views&color=ffffff&style=flat" alt="mombaygheve97" />
   </a>
 </h1>
@@ -9,7 +9,7 @@
 ```diff
 # 🔭 I’m currently working on **An Artificial Intelligent bot in Discord**
 
-# 🌱 I’m currently learning **Data Analyst, Excel, Power BI, Tableau, Machine Learning, and Python**
+# 🌱 I’m currently learning **Java, Python, MySQL/SQL server, Machine Learning, Data Analytics**
 
 # 📫 How to reach me **gheve.mombay97@gmail.com**
 
